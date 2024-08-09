@@ -1,5 +1,5 @@
 
-# Desafio Prático - Local Turístico
+# Projeto - Local Turístico
 Acesse meu projeto em: <a href="https://andrrade.github.io/projeto-travelgram/" target="_blank">https://andrrade.github.io/projeto-travelgram/</a>
 <br><br>
 
