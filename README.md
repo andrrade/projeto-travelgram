@@ -1,6 +1,6 @@
 
 # Projeto - Local Turístico
-Acesse meu projeto em: <a href="https://andrrade.github.io/projeto-travelgram/" target="_blank">https://andrrade.github.io/projeto-travelgram/</a>
+Acesse meu projeto em: <a href="https://vercel.com/lauras-projects-3e9590e5/projeto-travelgram" target="_blank">https://vercel.com/lauras-projects-3e9590e5/projeto-travelgram/</a>
 <br><br>
 
 ![Travelgram_andrrade github io](https://github.com/user-attachments/assets/18dc69cf-8105-4327-84b5-c6f46777ef0a)
