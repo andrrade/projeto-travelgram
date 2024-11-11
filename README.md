@@ -1,5 +1,5 @@
 
-# Projeto - Local Turístico
+# Projeto - Travelgram
 Acesse meu projeto em: <a href="https://projeto-travelgram-blue.vercel.app/" target="_blank">https://projeto-travelgram-blue.vercel.app</a>
 <br><br>
 
