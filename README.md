@@ -16,7 +16,7 @@ Acesse meu projeto em: <a href="https://projeto-travelgram-blue.vercel.app/" tar
 - Variáveis CSS;
 - Posicionamento de elementos;
 
-# 🚀 Tecnoogias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
 - HTML
 - CSS
