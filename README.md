@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Projeto de um Portal de Notícias desenvolvido durante as aulas de Layout com CSS na Rocketseat.
+  Projeto de um Instagram com fotos de viagem "Travelgram" desenvolvido durante as aulas de Layout com CSS na Rocketseat.
 </p>
 
 <p align="center">
