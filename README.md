@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Projeto de um Instagram com fotos de viagem "Travelgram" desenvolvido durante as aulas de Layout com CSS na Rocketseat.
+  Projeto de um perfil de viagens "Travelgram" desenvolvido durante as aulas de Layout com CSS na Rocketseat.
 </p>
 
 <p align="center">
