@@ -23,10 +23,16 @@
 
 ---
 
-##  📂 Projeto
+## 📂 Projeto
 
+<p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto" src="https://github.com/user-attachments/assets/18dc69cf-8105-4327-84b5-c6f46777ef0a">
+  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/18dc69cf-8105-4327-84b5-c6f46777ef0a" width="800px">
+</p>
+
+<p align="center">📱 <b>Para Celular:</b></p>
+<p align="center">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/0d29d23e-ca04-403b-86c5-31cf5f0ed5be" width="300px">
 </p>
 
 ---
